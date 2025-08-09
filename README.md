@@ -21,6 +21,11 @@ webtechnologie/
 └─ labo-n/      
 ```
 
+## Tip
+In deze README.md zijn een aantal afbeeldingen ingebed.
+Installeer een Markdown preview plugin in Visual Studio Code als je dat nog niet gedaan hebt.
+Dan kan je de afbeeldingen meteen in de tekst weergeven.
+
 ## Geïntegreerde opdracht
 
 Dit is een grote herhalingsoefening waar de meeste topics van de cursus tot hiertoe in terugkomen. Deze herhalingsoefening is een ideale oefening om jezelf of je voldoende voorbereid bent voor de tussentijdse toets.
